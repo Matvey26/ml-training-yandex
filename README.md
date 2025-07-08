@@ -25,6 +25,6 @@
 
 
 
-### [Тренировки по классическому NLP](https://yandex.ru/yaintern/training/ml-training-october-2024)
+### [Тренировки по NLP](https://yandex.ru/yaintern/training/ml-training-october-2024)
 
 **soon...**
